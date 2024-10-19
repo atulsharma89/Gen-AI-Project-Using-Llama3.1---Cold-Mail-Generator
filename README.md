@@ -39,6 +39,10 @@ Before running the app, ensure you have the following:
    ```bash
    pip install streamlit langchain_community
 
+   or
+
+   pip install -r requirements.txt
+
 
 ## Running the App
 
